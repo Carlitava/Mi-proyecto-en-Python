@@ -1,0 +1,30 @@
+2025-05-18 15:38:13,965 - INFO - LLamando a :a�adir_mascota
+2025-05-18 15:38:13,965 - INFO - *Args:('ggg', '111111111111', 'j', 'g@gmail.com', 'n', 'blanco', '6', '2025-05-01')
+2025-05-18 15:38:13,965 - INFO - Kwargs{}
+Estado actualizado:None
+Estado actualizado:None
+2025-05-18 15:38:13,971 - INFO - Resultado:Datos ingresados correctamente
+2025-05-18 15:54:34,519 - INFO - LLamando a :borrar_mascota
+2025-05-18 15:54:34,519 - INFO - *Args:(None,)
+2025-05-18 15:54:34,519 - INFO - Kwargs{}
+2025-05-18 15:54:34,519 - INFO - Resultado:Error: Seleccione un registro para borrar
+2025-05-18 15:54:36,381 - INFO - LLamando a :borrar_mascota
+2025-05-18 15:54:36,381 - INFO - *Args:(1,)
+2025-05-18 15:54:36,381 - INFO - Kwargs{}
+2025-05-18 15:54:36,388 - INFO - Resultado:�xito: Registro borrado correctamente
+2025-05-18 15:54:38,833 - INFO - LLamando a :borrar_mascota
+2025-05-18 15:54:38,833 - INFO - *Args:(1,)
+2025-05-18 15:54:38,833 - INFO - Kwargs{}
+2025-05-18 15:54:38,834 - INFO - Resultado:Error: El registro no existe en la base de datos
+2025-05-18 15:55:24,702 - INFO - LLamando a :a�adir_mascota
+2025-05-18 15:55:24,703 - INFO - *Args:('carla', '1111111111111', 'juan b justo', 'c@gmail.com', 'siberia', 'blanco', '9', '2025-08-03')
+2025-05-18 15:55:24,703 - INFO - Kwargs{}
+Estado actualizado:None
+Estado actualizado:None
+2025-05-18 15:55:24,711 - INFO - Resultado:Datos ingresados correctamente
+2025-05-18 15:57:39,131 - INFO - LLamando a :a�adir_mascota
+2025-05-18 15:57:39,131 - INFO - *Args:('ana', '22222222222', 'h', 'a@gmail.com', 'baba', 'negro', '6', '2024-05-01')
+2025-05-18 15:57:39,131 - INFO - Kwargs{}
+Estado actualizado:None
+Estado actualizado:None
+2025-05-18 15:57:39,153 - INFO - Resultado:Datos ingresados correctamente
